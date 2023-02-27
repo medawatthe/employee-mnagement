@@ -2,7 +2,7 @@ CREATE DATABASE 'demo';
 USE demo;
 
 create table users (
-	nicid  int(3) NOT NULL,
+	nicid  int(10) NOT NULL,
 	name varchar(120) NOT NULL,
 	department varchar(220) NOT NULL,
 	 designation varchar(120),
