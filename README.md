@@ -1,1 +1,1 @@
-# employee-mnagement
+# employee-management
